@@ -9,7 +9,7 @@ public class PizzaController {
 	@RequestMapping("/pizzas")
 	public String getPizzas() {
 		
-		return "Pizza are good";
+		return "I love a good pizza!!!";
 		
 	}
 
